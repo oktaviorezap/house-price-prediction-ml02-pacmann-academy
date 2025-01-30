@@ -1,4 +1,7 @@
 # Machine Learning 02: House Price Prediction - Pacmann Academy
+Full Code: [Full Python Code - House Price Prediction](https://github.com/oktaviorezap/house-price-prediction-ml02-pacmann-academy/blob/main/Mentoring_02_Introduction_to_Machine_Learning_Sekolah_Data_(Oktavio_Reza_Putra_JPP_MAX_Pacmann_Academy).ipynb)
+<br>
+
 **Description**
 - We're looking to predict the rent price of a house
 - The dataset contains of the following fields
